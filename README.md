@@ -1,7 +1,7 @@
 # 👋 Hi there 
 ### I'm Ryan Lucas, a passionate software developer and technology enthusiast. I'm currently looking for a first opportunity in programming, but I've been doing some freelance work lately to support myself financially and gain experience as a fullstack developer.
 With a little more than 1 year of experience in the area, I had the opportunity to take some courses, develop some solo projects, contribute to external projects together with coursemates and I am always willing to learn more.
-## 💡 Aqui está meu --> [![Portifolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portifolio-ryan.vercel.app/,_blank)
+## 💡 Aqui está meu --> [![Portifolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portifolio-ryan.vercel.app/)
 
 
 # 🚀 Expertise
