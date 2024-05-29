@@ -1,6 +1,6 @@
 # 👋 Hi there 
- I'm Ryan Lucas, a passionate software developer and technology enthusiast. I'm currently looking for a first opportunity in programming, but I've been doing some freelance work lately to support myself financially and gain experience as a fullstack developer.
-With a little more than 1 year of experience in the area, I had the opportunity to take some courses, develop some solo projects, contribute to external projects together with coursemates and I am always willing to learn more.
+Hi, I'm Ryan. I'm a fullstack developer who always values ​​the quality and effectiveness of a website. 2 years ago I started my studies in the area of ​​software development and I fell in love with it. I continue my studies to this day and have done some freelance work to continue improving my skills and gaining some experience.
+In the second month of studying, I started a course, in which I learned from basic to advanced JavaScript + React for the front-end, Express + NodeJs for the back-end and MongoDB + PostegresSQL for databases. With these skills acquired over time, I started to develop projects, some of which you will find in my repositories, which shows a little of my knowledge. I like to say that growing and learning as a person or professional is the best thing to do in this life.
 ## 💡 Here is mine  --> [![Portifolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portifolio-ryan.vercel.app/)
 
 
@@ -12,7 +12,6 @@ I love working on both the front end and back end because it allows me to combin
  # 💻 Tech Stack :
  <div style="display: inline_block"><br/>
  <img align="center" alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
- <img align="center" alt="" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
  <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  <img align="center" alt="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
