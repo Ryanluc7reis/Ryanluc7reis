@@ -5,8 +5,7 @@ In the second month of studying, I started a course, in which I learned from bas
 
 
 # 🚀 Expertise
-My primary focus is fullstack development, where I specialize in building functional, interactive web applications. I have extensive knowledge of JavaScript, the basics of Python, and I am proficient in popular frameworks and libraries such as React along with the NextJs framework.
-I love working on both the front end and back end because it allows me to combine my creativity with problem solving skills to deliver exceptional user experiences.
+My primary focus is fullstack development, where I specialize in building functional, interactive web applications. I have extensive knowledge of JavaScript, NodeJS, and I am proficient in popular frameworks and libraries such as React along with the NextJs framework. I love working on both the front end and back end because it allows me to combine my creativity with problem solving skills to deliver exceptional user experiences.
 
 
  # 💻 Tech Stack :
